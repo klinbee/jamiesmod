@@ -1,9 +1,7 @@
 {
   "type": "jamiesmod:bygone",
-  "forge:use_server_seed": true,
   "generator": {
     "type": "minecraft:noise",
-    "seed": 0,
     "settings": "jamiesmod:bygone",
     "biome_source": {
       "type": "minecraft:multi_noise",
